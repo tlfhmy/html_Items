@@ -1,0 +1,45 @@
+
+/* 选中鼠标悬停时的a元素 */
+/* a:hover{
+    color: red;
+} */
+
+/* 选中鼠标按下时的a元素 */
+/* a:active{
+    color: #008c8c;
+} */
+
+/* 超链接被访问与否 */
+/* a:link{
+    color: chocolate;
+}
+a:visited{
+    color: rgb(113, 113, 0)
+} */
+
+/* span::before{
+    content: "《";
+    color: red;
+}
+
+span::after{
+    content: "》";
+    color: rebeccapurple;
+} */
+
+/* p{
+    text-indent: 2em;
+    line-height: 2;
+}
+
+div.red{
+    color: red;
+}
+
+.red li{
+    color: #008c8c;
+} */
+
+.abc .bcd{
+    color: red;
+}
